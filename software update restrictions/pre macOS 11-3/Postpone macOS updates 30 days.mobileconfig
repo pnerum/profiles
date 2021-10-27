@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>nl.wdka.ProfileCreator.F7933C5D-A9FE-4067-A547-2266DD62CEE2.com.apple.applicationaccess.ABE227DB-23A2-411F-B662-EDE7BA174731</string>
+			<key>PayloadOrganization</key>
+			<string>WdKA</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>ABE227DB-23A2-411F-B662-EDE7BA174731</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>enforcedSoftwareUpdateDelay</key>
+			<integer>30</integer>
+			<key>forceDelayedSoftwareUpdates</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Postpone macOS updates 30 days</string>
+	<key>PayloadDisplayName</key>
+	<string>Postpone macOS updates 30 days</string>
+	<key>PayloadIdentifier</key>
+	<string>nl.wdka.ProfileCreator.F7933C5D-A9FE-4067-A547-2266DD62CEE2</string>
+	<key>PayloadOrganization</key>
+	<string>Willem de Kooning academy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F7933C5D-A9FE-4067-A547-2266DD62CEE2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

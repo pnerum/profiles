@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>nl.wdka.BD3DA898-9005-4724-B91B-C3B6A71BFBBC.com.apple.applicationaccess.ABE227DB-23A2-411F-B662-EDE7BA174731</string>
+			<key>PayloadOrganization</key>
+			<string>WdKA</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>BD3DA898-9005-4724-B91B-C3B6A71BFBBC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>enforcedSoftwareUpdateNonOSDeferredInstallDelay</key>
+			<integer>7</integer>
+			<key>forceDelayedAppSoftwareUpdates</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Postpone non macOS updates 30 days</string>
+	<key>PayloadDisplayName</key>
+	<string>Postpone non macOS updates 30 days</string>
+	<key>PayloadIdentifier</key>
+	<string>nl.wdka.5D629252-A3FA-46AC-B08E-E6654F3B3471</string>
+	<key>PayloadOrganization</key>
+	<string>Willem de Kooning academy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5D629252-A3FA-46AC-B08E-E6654F3B3471</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
